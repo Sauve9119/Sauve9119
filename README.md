@@ -59,13 +59,14 @@
 
 ---
 
-### 📊 GitHub Stats (Dark Theme)
+### 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauve9119&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=sauve9119&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauve9119&theme=tokyonight" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauve9119&layout=compact&theme=tokyonight" alt="Top Languages" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sauve9119&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="33%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauve9119&theme=tokyonight" alt="GitHub Streak" width="33%"/>
 </p>
+
 
 
 
