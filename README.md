@@ -61,16 +61,10 @@
 
 ### 📊 GitHub Stats (Dark Theme)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauve9119&layout=compact&theme=dark" alt="Top Languages" />
-</p>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sauve9119&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauve9119&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sauve9119&layout=compact&theme=tokyonight" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sauve9119&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sauve9119&theme=tokyonight" alt="GitHub Streak" height="200"/>
 </p>
 
 
